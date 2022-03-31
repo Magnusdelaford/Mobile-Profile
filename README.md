@@ -1,16 +1,7 @@
 # mobpro
 
-A new Flutter project.
+Tugas 2 Mobile Programming 
+Profile Fullter
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1648697430](https://user-images.githubusercontent.com/30525917/160971954-a687efac-5716-44a6-b222-f2a6b8faddbc.png)
+![Screenshot_1648697432](https://user-images.githubusercontent.com/30525917/160972011-9b3a7205-daec-496c-901e-7b2f813c99ab.png)
